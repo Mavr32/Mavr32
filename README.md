@@ -1,40 +1,53 @@
-## 👋 Привет, я Mavr32
+Дмитрий Ивлев
 
-**AI Automation Developer** — создаю готовые модули для Hermes AI: от Telegram-ботов до биржевых аналитиков.
+Разработчик AI-решений
 
-🔭 **Сейчас работаю над:** Hermes AI Skills Market — экосистема готовых AI-модулей  
-🌍 **Сайт:** [mavr32.github.io](https://mavr32.github.io)  
-📫 **Связаться:** Telegram — @Mavr32  
+Липецк, Россия
+Mavr32
+@Mavr32
+ivlev.lip@gmail.com
+О себе
 
----
+Развиваюсь в направлении AI-автоматизации: разработка Telegram-ботов, систем мониторинга, аналитических инструментов.
 
-### 🛠️ Стек
+Создающий QwenPaw AI Skills Market — экосистемы готовых AI-модулей для автоматизации бизнеса и производства.
+Образование
+Высшее — Чёрная металлургия
 
-```
-Python  ·  JavaScript  ·  Bash  ·  Docker  ·  OpenWrt
-FastAPI ·  Playwright  ·  SQLite  ·  Redis  ·  FFmpeg
-```
+Инженер Чёрной металлургии
 
----
+1991- 2005г.
+Опыт работы
+металлург
 
-### 📦 Проекты
+Металлургическое предприятие, Липецк
 
-| Проект | Описание | 
-|--------|----------|
-| [Hermes Skills Market](https://github.com/Mavr32/mavr32.github.io) | Маркетплейс AI-модулей для Hermes |
-| [Bot Monitor](https://github.com/Mavr32/hermes-bot-monitor) | Мониторинг Telegram-ботов с авто-рестартом |
-| [Stock Analyst MOEX](https://github.com/Mavr32/hermes-stock-analyst) | Теханализ, портфель, алерты для MOEX |
-| [Media Generator](https://github.com/Mavr32/hermes-media-gen) | SDXL генерация изображений через Telegram |
-| [YouTube Manager](https://github.com/Mavr32/hermes-youtube-manager) | Скачивание, транскрипция, аналитика YouTube |
-| [Sochi Adler Monitor](https://github.com/Mavr32/hermes-sochi-monitor) | Мониторинг новостей, погоды, курсов Сочи |
 
----
+    Контроль технологических процессов
+    Оптимизация производственных параметров
+    Автоматизация учёта и отчётности
 
-### 📊 Статистика
+Разработчик AI-решений (фриланс)
 
-![Mavr32's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mavr32&show_icons=true&theme=dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mavr32&layout=compact&theme=dark)
+Hermes AI Skills Market
 
----
+2026 – настоящее время
 
-*Hermes AI Skills Market — готовые модули для AI-автоматизации. Работает на вашем сервере, данные не передаются третьим лицам.*
+    Telegram-боты: мониторинг, аналитика, генерация контента
+    Инструменты для YouTube: скачивание, транскрипция, аналитика
+    Парсинг данных: мониторинг цен, новостей, курсов валют
+    Интеграция AI-моделей (Whisper, SDXL, LLM) в рабочие процессы
+
+Навыки
+Python JavaScript Bash/Linux Docker FastAPI SQLite Playwright FFmpeg Telegram API GitHub Actions OpenWrt AI/ML (LLM, TTS, STT)
+Проекты
+Hermes Bot Monitor
+
+Система мониторинга Telegram-ботов с авто-рестартом и алертами. Healthcheck через Telegram API, логирование состояния.
+Hermes Skills Market
+
+Готовые модули для AI-автоматизации: Stock Analyst, Media Generator, Voice Processor, YouTube Manager и другие.
+GitHub Статистика
+GitHub Stats
+
+© 2026 Дмитрий Ивлев · GitHub · Telegram.
